@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	<path>KC767.ac</path>
+
+	<multiplay>
+	<refuel>
+	<type>boom</type>
+	</refuel>
+	</multiplay>
+
+  <animation>
+    <type>material</type>
+    <object-name>formation</object-name>
+    <object-name>any_Lump</object-name>
+    <object-name>tube</object-name>
+    <emission>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  1.0 </blue>
+    </emission>
+  </animation>
+
+
+	<animation>
+            <type>noshadow</type>
+            <object-name>REFUEL-NAV</object-name>
+            <object-name>nav</object-name>
+            <object-name>formation</object-name>
+            <object-name>any_Lump</object-name>
+            <object-name>tube</object-name>
+	</animation>
+	
+
+ <model>
+    <path>Models/Geometry/KC767/anticollision_beacon.xml</path>
+    <offsets>
+      <x-m> 0 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> -1.5 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/GreenLight.xml</path>
+    <offsets>
+      <x-m> 9 </x-m>
+      <y-m> 23 </y-m>
+      <z-m> 2 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/RedLight.xml</path>
+    <offsets>
+      <x-m> 9 </x-m>
+      <y-m> -23 </y-m>
+      <z-m> 2 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/StrobeWhite.xml</path>
+    <offsets>
+      <x-m> 10 </x-m>
+      <y-m> 23 </y-m>
+      <z-m> 2 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/StrobeWhite.xml</path>
+    <offsets>
+      <x-m> 10 </x-m>
+      <y-m> -23 </y-m>
+      <z-m> 2 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/TailLight.xml</path>
+    <offsets>
+      <x-m> 22 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 1 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/Landinglight.xml</path>
+    <offsets>
+      <x-m> 1 </x-m>
+      <y-m> 8.2 </y-m>
+      <z-m> -1 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   -10 </pitch-deg>
+      <heading-deg> 180 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/Landinglight.xml</path>
+    <offsets>
+      <x-m> 1 </x-m>
+      <y-m> -8.2 </y-m>
+      <z-m> -1 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   -10 </pitch-deg>
+      <heading-deg> 180 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/light-cone.xml</path>
+    <offsets>
+      <x-m> 1 </x-m>
+      <y-m> 8.2 </y-m>
+      <z-m> -1 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   -5 </pitch-deg>
+      <heading-deg> 180 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/light-cone.xml</path>
+    <offsets>
+      <x-m> 1 </x-m>
+      <y-m> -8.2 </y-m>
+      <z-m> -1 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   -5 </pitch-deg>
+      <heading-deg> 170 </heading-deg>
+    </offsets>
+  </model>
+
+ <model>
+    <path>Models/Geometry/KC767/light-cone.xml</path>
+    <offsets>
+      <x-m> 19 </x-m>
+      <y-m> 0</y-m>
+      <z-m> 2 </z-m>
+      <roll-deg>  0 </roll-deg>
+      <pitch-deg> 80 </pitch-deg>
+      <heading-deg> 180 </heading-deg>
+    </offsets>
+  </model>
+
+</PropertyList>
+
+

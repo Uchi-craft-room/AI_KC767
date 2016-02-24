@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	<scenario>
+
+		<entry>
+			<name>Tanker-1</name>
+			<callsign>COBBY1</callsign>
+			<type>tanker</type>
+			<class>tanker</class>
+			<TACAN-channel-ID>041X</TACAN-channel-ID>
+			<model>Models/Geometry/KC767/KC767.xml</model>
+			<latitude>35.24</latitude>
+			<longitude>136.93</longitude>
+			<altitude>3000</altitude>
+			<heading>020</heading>
+			<speed>280</speed>
+			<roll>-15</roll>
+		</entry>
+
+	</scenario>
+
+</PropertyList>
